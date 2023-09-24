@@ -1,7 +1,7 @@
 <h1 align="center"> Cadastro </h1>
 
 <p align="center">
-Projeto sobre um simples cadastro com Python. <br/>
+Projeto sobre um simples Cadastro com Python. <br/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Projeto sobre um simples cadastro com Python. <br/>
 <br>
 
 <p align="center">
-  <img alt="Cadastro" src="assets/preview.png" width="100%">
+  <img alt="cadastro" src="assets/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
