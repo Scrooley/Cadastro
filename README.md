@@ -17,7 +17,7 @@ Projeto sobre um simples Cadastro com Python. <br/>
 <br>
 
 <p align="center">
-  <img alt="cadastro" src="assets/preview.png" width="50%">
+  <img alt="cadastro" src=".github/preview.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
